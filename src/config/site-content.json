@@ -5,7 +5,7 @@
 		"username": "FuHao"
 	},
 	"theme": {
-		"colorBrand": "#de4331",
+		"colorBrand": "#256B3C",
 		"colorPrimary": "#4E3F42",
 		"colorSecondary": "#7b888e",
 		"colorBrandSecondary": "#FCC841",
@@ -15,12 +15,14 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#FCC841",
-		"#DFEFFC",
-		"#DEDE92",
-		"#DE4331",
-		"#FE9750",
-		"#FCC841"
+		"#140E10",
+		"#276905",
+		"#20B080",
+		"#EE53B5",
+		"#FB6197",
+		"#D25EB9",
+		"#351923",
+		"#4E38CD"
 	],
 	"artImages": [
 		{
