@@ -5,7 +5,7 @@
 		"username": "FuHao"
 	},
 	"theme": {
-		"colorBrand": "#8B2EA5",
+		"colorBrand": "#084D3E",
 		"colorPrimary": "#4E3F42",
 		"colorSecondary": "#7b888e",
 		"colorBrandSecondary": "#FCC841",
@@ -15,11 +15,10 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#11A66E",
-		"#09B60C",
-		"#74949A",
-		"#29F6AD",
-		"#6D6B59"
+		"#65411B",
+		"#EF561E",
+		"#2A5F78",
+		"#B2EDD7"
 	],
 	"artImages": [
 		{
@@ -35,14 +34,18 @@
 			"url": "/images/art/04b86d83f671c2ee.jpg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "04b86d83f671c2ee",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "566fba6825923ecc",
+			"url": "/images/background/566fba6825923ecc.jpg"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "566fba6825923ecc",
 	"socialButtons": [
 		{
 			"id": "github",
