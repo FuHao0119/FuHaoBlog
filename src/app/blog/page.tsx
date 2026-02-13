@@ -443,9 +443,7 @@ export default function BlogPage() {
 						</motion.div>
 					)
 				})}
-				{items.length > 0 && (
-					
-				)}
+				
 			</div>
 
 			<div className='pt-12'>
