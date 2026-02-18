@@ -1,5 +1,15 @@
 [
   {
+    "slug": "0219",
+    "title": "Niri 桌面美化：给你的 Overview 界面也换上壁纸吧！",
+    "tags": [],
+    "date": "2026-02-19T01:26",
+    "summary": "",
+    "cover": "/blogs/0219/1155e778ae18ff51.png",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "niri",
     "title": " 搞定 Fedora 43 + Niri 中 XWayland 应用输入法字体过小的问题",
     "tags": [],
