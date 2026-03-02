@@ -1,5 +1,15 @@
 [
   {
+    "slug": "0302",
+    "title": "解决后台开启代理不能连接到校园网问题，自动连接校园网脚本",
+    "tags": [],
+    "date": "2026-03-02T18:50",
+    "summary": "",
+    "cover": "/blogs/0302/939689c2771f4e27.jpg",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "0220",
     "title": "Linux 安装 KVM 并安装 Windows 系统",
     "tags": [],
